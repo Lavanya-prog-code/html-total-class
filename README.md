@@ -31,7 +31,7 @@
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20250408124306294228/Screenshot-2025-04-08-124248.png"alt="image"width="500">
 <table border="1"width="80%">
     <tr><th>tag</th><th>description</th></tr>
-    <tr><td><a href="https://www.geeksforgeeks.org/html/html-tutorial/">html</a></td>
+    <tr><td><a href="https://www.geeksforgeeks.org/html/html-tutorial/"><html></a></td>
     <td>The root element of an HTML document</td></tr>
     <tr><td><a href="https://www.geeksforgeeks.org/html/html-head-tag/">head</a></td>
     <td>Contains meta-information about the webpage</td></tr>
