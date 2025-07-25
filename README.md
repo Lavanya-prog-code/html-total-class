@@ -8,7 +8,7 @@
     <h2>HTML</h2>
     <hr>
     <p><b> HTML</b> stands for<b> Hyper Text Markup Language</b>b, which is the core language used to structure content on the web. It organizes text, images, links, and media using tags and elements that browsers can interpret. As of 2025, over 95% of websites rely on HTML alongside CSS and JavaScript, making it a fundamental tool in modern web development.</p>
-<ul><li>It is a markup language, not a programming language. This means it annotates text to define how it is structured and displayed by<a href="https://www.geeksforgeeks.org/blogs/web-browser-a-complete-overview/">web browsers for styling and <a href="https://www.geeksforgeeks.org/javascript/javascript-tutorial/">JavaScript for interactivity.</a></li>
+<ul><li>It is a markup language, not a programming language. This means it annotates text to define how it is structured and displayed by<a href="https://www.geeksforgeeks.org/blogs/web-browser-a-complete-overview/">web browsers</a> for styling and <a href="https://www.geeksforgeeks.org/javascript/javascript-tutorial/">JavaScript for interactivity.</a></li>
 <li>It is a static language, meaning it does not inherently provide interactive features but can be combined with<a href="https://www.geeksforgeeks.org/css/css-tutorial/">css</a> </li></ul>
 <p>In a nutshell, HTML is all about organizing and displaying information on a webpage. We can think of it as the bones or structure of a webpage</p>
 <p><h2>HTML Page Structure</h2>The basic structure of an HTML page is shown below. It contains the essential building-block elements (i.e. doctype declaration, HTML, head, title, and body elements) upon which all web pages are created</p>
